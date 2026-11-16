@@ -1,11 +1,5 @@
 # Rocket Launch Tracker
 
-**Author:** Krishna Asati
-**Internship:** Full Stack Developer Internship, SWYNEX Technologies
-**Date:** November 2026
-
----
-
 ## 1. Overview
 
 Rocket Launch Tracker is a small full-stack web application for people who follow space launches. A user can browse upcoming and past launches, save the ones they care about to a personal watchlist, and write notes on each saved launch.
